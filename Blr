@@ -1,5 +1,213 @@
---[[
-    Protected | Secure by GhostyDuckyy#7698
-]]--
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
-local Taurus_Y3uXI8wIey3hW94t9K7BG = function() local Taurus_i6m727p55M1 = "01001001 01110010 01101111 01101110 01000010 01110010 01100101 01110111 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_D6658oPWl42 = "01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001"; local Taurus_D4uv2aqco95U = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_yx9CU64f5013 = "01000100 01100101 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01100101 00111111"; local Taurus_Do18O91K6iH = "01000110 01110010 01100101 01100101 00100000 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01101111 01110010 00100001"; local Taurus_Ay9w0T07768 = "01010000 01010011 01010101 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_W45tX3sO26R31 = "01001110 01100101 01110111 00100000 01110101 01110000 01100100 01100001 01110100 01100101 00100000 01110111 01101000 01100101 01101110 00111111"; local Taurus_Wax906xUDMu = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_r6y217aH0D972 = "01010100 01101111 01110101 01100011 01101000 00100000 01110011 01101111 01101101 01100101 00100000 01100111 01110010 01100001 01110011 01110011"; local Taurus_Hs93IFO042p08 = "01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001"; local Taurus_nRP2u9yT19g83 = "01000101"; local Taurus_IBTHBkdl3647E = "01010000 01010011 01010101 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_abFFZgTKF0UK = "01000100 01100101 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01100101 00111111"; local Taurus_YxYW2k8rCm712 = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_jk5y5k73312 = "01010000 01010011 01010101 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_pek16o6HL0048 = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_IYX22qj3J9492 = "01010000 01010011 01010101 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_ZY827sPO9a7J = "01000101"; local Taurus_SWBtw744g3g5Z = "01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001"; local Taurus_kM9etqDohN64 = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_HsUpI1F708c0 = "01000100 01100101 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01100101 00111111"; local Taurus_J4EU2PwlcLR = "01000101"; local Taurus_UmC884I6g6d = "01000100 01100101 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01100101 00111111"; local Taurus_h883K6755Vq5 = "01000101"; local Taurus_s3YJ2Yy45NM = "01001001 01110010 01101111 01101110 01000010 01110010 01100101 01110111 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_hTR1aV5k7323F = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_QKqt9mM0jUITa = "01001001 01110010 01101111 01101110 01000010 01110010 01100101 01110111 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_CA79lG1yTs6u = "01110101 01100100 00110111 01101000 01010010 01101101 00111000 00110000 00110000 00111000 01111010 01110111 00110010 01101000 01110000 00110100 01110010 01110010 01111000 01101000 01010011 01011000 01110101 00110101 01001000 00110111 01011000 00110100 00111000 01011010 01100100 01110011 00110100 01010000 00110000 01011001 00110110 00110011 00110101 00110000 00110111 01101000 00110010 00111000 00110000 00110100 01100100 01101100 00111000 01000011 00110010 01001100 00111000 00110001 01011010 01001010 00110110 01001111 00110010 01100100 01001011 01100110 00111001 00110010 01000111 00110101 01000010 00110010 00110010"; local Taurus_C23968DgWP748 = "01010100 01101111 01110101 01100011 01101000 00100000 01110011 01101111 01101101 01100101 00100000 01100111 01110010 01100001 01110011 01110011"; local Taurus_kE94ca30K0Ua2 = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_b56Qg25q2Vt = "01010100 01101111 01110101 01100011 01101000 00100000 01110011 01101111 01101101 01100101 00100000 01100111 01110010 01100001 01110011 01110011"; local Taurus_HjvN0U1o312H = "01001001 01110010 01101111 01101110 01000010 01110010 01100101 01110111 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_O2z2842o41l = "01001110 01100101 01110111 00100000 01110101 01110000 01100100 01100001 01110100 01100101 00100000 01110111 01101000 01100101 01101110 00111111"; local Taurus_gM478M333zl = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001"; local Taurus_oG39wy4Ba66Q = "01010000 01010011 01010101 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_jH3P71DxHno = "01010000 01010011 01010101 00100000 01000110 01101111 01110010 01101011 00111111 00100000 01001110 01101111 01110000 01100101 00101110"; local Taurus_CboBa1Nm54991 = "01000100 01100101 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01100101 00111111"; local Taurus_l7rzTnFj5m381 = "01001110 01100101 01110111 00100000 01110101 01110000 01100100 01100001 01110100 01100101 00100000 01110111 01101000 01100101 01101110 00111111"; local Taurus_I49h7tQWw6qpX = "01001110 01100101 01110111 00100000 01110101 01110000 01100100 01100001 01110100 01100101 00100000 01110111 01101000 01100101 01101110 00111111"; local Taurus_A728Kb34MD7 = "01000110 01110010 01100101 01100101 00100000 01101111 01100010 01100110 01110101 01110011 01100011 01100001 01110100 01101111 01110010 00100001"; local Taurus_Odk60xNI8TP = "01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001"; local Taurus_LsJ6734Mb87 = "01000111 01101000 01101111 01110011 01110100 01111001 01000100 01110101 01100011 01101011 01111001 01111001";  end; local Taurus_g814wx4uLp35qk0eNU = loadstring(table.concat({"\114", "\101", "\116", "\117", "\114", "\110", "\32", "\102", "\117", "\110", "\99", "\116", "\105", "\111", "\110", "\40", "\98", "\121", "\116", "\101", "\41", "\10", "\32", "\32", "\32", "\32", "\105", "\102", "\32", "\116", "\121", "\112", "\101", "\111", "\102", "\40", "\98", "\121", "\116", "\101", "\41", "\32", "\61", "\61", "\32", "\34", "\116", "\97", "\98", "\108", "\101", "\34", "\32", "\116", "\104", "\101", "\110", "\10", "\32", "\32", "\32", "\32", "\32", "\32", "\32", "\32", "\108", "\111", "\97", "\100", "\115", "\116", "\114", "\105", "\110", "\103", "\40", "\116", "\97", "\98", "\108", "\101", "\46", "\99", "\111", "\110", "\99", "\97", "\116", "\40", "\98", "\121", "\116", "\101", "\41", "\41", "\40", "\41", "\10", "\32", "\32", "\32", "\32", "\101", "\108", "\115", "\101", "\10", "\32", "\32", "\32", "\32", "\32", "\32", "\32", "\32", "\98", "\121", "\116", "\101", "\32", "\61", "\32", "\123", "\98", "\121", "\116", "\101", "\125", "\10", "\32", "\32", "\32", "\32", "\32", "\32", "\32", "\32", "\108", "\111", "\97", "\100", "\115", "\116", "\114", "\105", "\110", "\103", "\40", "\116", "\97", "\98", "\108", "\101", "\46", "\99", "\111", "\110", "\99", "\97", "\116", "\40", "\98", "\121", "\116", "\101", "\41", "\41", "\40", "\41", "\10", "\32", "\32", "\32", "\32", "\101", "\110", "\100", "\10", "\101", "\110", "\100", "\10",}))(); local Taurus_yCDVV8t15y0h68kOwm0 = {"\114", "\101", "\116", "\117", "\114", "\110", "\32", "\69", "\73", "\65", "\54", "\122", "\56", "\54", "\57", "\53", "\55", "\85", "\69", "\82", "\53", "\56", "\55", "\53", "\49", "\81", "\105", "\49", "\89", "\49", "\84", "\118", "\54", "\85", "\83", "\101", "\52", "\51", "\100", "\99", "\77", "\57", "\99", "\89", "\99", "\108", "\110", "\56", "\55", "\103", "\83", "\85", "\56", "\66", "\103", "\54", "\79", "\115", "\57", "\115", "\49", "\57", "\48", "\69", "\55", "\57", "\53", "\48", "\105", "\50", "\48", "\89", "\54", "\112", "\49", "\51", "\75", "\99", "\55", "\49", "\84", "\116", "\56", "\75", "\114", "\98", "\113", "\53", "\74", "\89", "\84", "\113", "\51", "\54", "\55", "\76", "\52", "\56", "\50", "\48", "\48", "\104", "\49", "\56", "\90", "\71", "\50", "\51", "\55", "\55", "\50", "\57", "\89", "\98", "\55", "\88", "\51", "\50", "\54", "\49", "\48", "\70", "\121", "\50", "\111", "\50", "\74", "\57", "\110", "\105", "\117", "\51", "\53", "\51", "\57", "\88", "\86", "\82", "\55", "\52", "\50", "\115", "\99", "\68", "\71", "\104", "\69", "\101", "\48", "\51", "\54", "\108", "\56", "\119", "\89", "\71", "\51", "\50", "\81", "\52", "\85", "\65", "\56", "\57", "\52", "\54", "\121", "\117", "\76", "\78", "\52", "\57", "\51", "\116", "\52", "\82", "\52", "\103", "\53", "\52", "\118", "\101", "\102", "\51", "\48", "\106", "\68", "\53", "\52", "\70", "\114", "\71", "\71", "\57", "\69", "\87", "\55", "\88", "\72", "\50", "\48", "\98", "\107", "\55", "\114", "\56", "\90", "\118", "\106", "\57", "\53", "\54", "\107", "\53", "\75", "\50", "\51", "\87", "\56", "\110", "\65", "\52", "\118", "\52", "\88", "\48", "\77", "\77", "\110", "\72", "\48", "\100", "\107", "\54", "\105", "\53", "\79", "\54", "\99", "\48", "\71", "\120", "\88", "\69", "\76", "\79", "\54", "\72", "\85", "\70", "\118", "\56", "\56", "\105", "\49", "\120", "\55", "\116", "\57", "\119", "\50", "\119", "\57", "\55", "\75", "\78", "\56", "\77", "\116", "\68", "\81", "\82", "\90", "\52", "\113", "\54", "\52", "\65", "\85", "\67", "\48", "\90", "\57", "\74", "\86", "\75", "\51", "\68", "\52", "\99", "\52", "\90", "\51", "\51", "\52", "\57", "\108", "\53", "\82", "\53", "\88", "\50", "\51", "\56", "\90", "\56", "\51", "\80", "\79", "\68", "\57", "\55", "\119", "\75", "\52", "\103", "\57", "\111", "\53", "\49", "\120", "\78", "\51", "\54", "\84", "\80", "\50", "\97", "\48", "\79", "\105", "\55", "\48", "\50", "\102", "\57", "\103", "\112", "\57", "\55", "\53", "\54", "\53", "\52", "\80", "\104", "\119", "\53", "\66", "\71", "\54", "\55", "\55", "\76", "\108", "\115", "\71", "\116", "\53", "\55", "\51", "\77", "\52", "\120", "\70", "\48", "\103", "\79", "\119", "\75", "\69", "\48", "\56", "\121", "\54", "\80", "\55", "\67", "\54", "\115", "\90", "\110", "\109", "\53", "\52", "\101", "\85", "\80", "\107", "\55", "\54", "\55", "\79", "\52", "\119", "\48", "\115", "\76", "\53", "\106", "\90", "\50", "\53", "\55", "\103", "\103", "\48", "\52", "\56", "\70", "\119", "\57", "\120", "\89", "\87", "\49", "\52", "\48", "\108", "\120", "\51", "\51", "\53", "\57", "\80", "\109", "\66", "\99", "\51", "\102", "\121", "\101", "\57", "\55", "\111", "\51", "\115", "\118", "\72", "\52", "\49", "\87", "\48", "\52", "\55", "\110", "\54", "\69", "\57", "\100", "\69", "\117", "\115", "\99", "\55", "\75", "\53", "\85", "\76", "\49", "\107", "\50", "\56", "\50", "\85", "\48", "\99", "\71", "\50", "\54", "\54", "\56", "\104", "\101", "\110", "\97", "\50", "\51", "\54", "\53", "\67", "\56", "\54", "\56", "\85", "\49", "\49", "\115", "\53", "\110", "\54", "\83", "\88", "\51", "\104", "\56", "\80", "\80", "\84", "\100", "\49", "\89", "\48", "\56", "\53", "\52", }; local Taurus_yCDVV8t15y0h68kOwm0 = Taurus_g814wx4uLp35qk0eNU(Taurus_yCDVV8t15y0h68kOwm0); local Taurus_mZDZ8wO2Y9e5ga095rE = {"\32", "\32", "\108", "\111", "\97", "\100", "\115", "\116", "\114", "\105", "\110", "\103", "\40", "\103", "\97", "\109", "\101", "\58", "\72", "\116", "\116", "\112", "\71", "\101", "\116", "\40", "\34", "\104", "\116", "\116", "\112", "\115", "\58", "\47", "\47", "\114", "\97", "\119", "\46", "\103", "\105", "\116", "\104", "\117", "\98", "\117", "\115", "\101", "\114", "\99", "\111", "\110", "\116", "\101", "\110", "\116", "\46", "\99", "\111", "\109", "\47", "\82", "\97", "\109", "\72", "\117", "\98", "\49", "\49", "\47", "\66", "\108", "\117", "\101", "\45", "\76", "\111", "\99", "\107", "\115", "\115", "\115", "\115", "\47", "\114", "\101", "\102", "\115", "\47", "\104", "\101", "\97", "\100", "\115", "\47", "\109", "\97", "\105", "\110", "\47", "\97", "\98", "\99", "\97", "\34", "\41", "\41", "\40", "\41", "\10", "\32", }; local Taurus_X5086eaD17TSC0006 = Taurus_g814wx4uLp35qk0eNU(Taurus_mZDZ8wO2Y9e5ga095rE); local Taurus_q487M5868G5154nL301 = {"\114", "\101", "\116", "\117", "\114", "\110", "\32", "\106", "\52", "\57", "\102", "\118", "\78", "\67", "\57", "\109", "\55", "\84", "\67", "\104", "\57", "\49", "\53", "\50", "\49", "\52", "\109", "\116", "\51", "\99", "\65", "\98", "\56", "\85", "\55", "\118", "\77", "\104", "\57", "\53", "\56", "\72", "\80", "\112", "\107", "\99", "\108", "\53", "\79", "\98", "\54", "\84", "\84", "\98", "\49", "\55", "\99", "\49", "\111", "\65", "\48", "\74", "\50", "\113", "\50", "\50", "\55", "\111", "\52", "\54", "\65", "\79", "\55", "\109", "\99", "\56", "\70", "\56", "\56", "\66", "\113", "\55", "\54", "\54", "\90", "\78", "\119", "\50", "\56", "\56", "\120", "\78", "\51", "\119", "\50", "\49", "\107", "\51", "\84", "\51", "\113", "\49", "\98", "\57", "\57", "\53", "\117", "\99", "\90", "\50", "\113", "\98", "\51", "\102", "\84", "\50", "\53", "\56", "\103", "\55", "\49", "\48", "\99", "\79", "\53", "\50", "\98", "\57", "\55", "\80", "\52", "\112", "\51", "\122", "\90", "\53", "\100", "\74", "\118", "\116", "\90", "\115", "\56", "\101", "\55", "\49", "\56", "\121", "\67", "\54", "\50", "\115", "\49", "\53", "\52", "\84", "\120", "\115", "\54", "\76", "\97", "\49", "\50", "\48", "\80", "\56", }; local Taurus_q487M5868G5154nL301 = Taurus_g814wx4uLp35qk0eNU(Taurus_q487M5868G5154nL301); 
+local Window = Rayfield:CreateWindow({
+   Name = "Blue Lock Rivals Script | Free Style By Rudbloxxx",
+   Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   LoadingTitle = "Blue Lock Rivals Script",
+   LoadingSubtitle = "by Rudbloxxx",
+   Theme = "Amethyst", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
+
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = nil, -- Create a custom folder for your hub/game
+      FileName = "Big Hub"
+   },
+
+   Discord = {
+      Enabled = false, -- Prompt the user to join your Discord server if their executor supports it
+      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+
+   KeySystem = false, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "Untitled",
+      Subtitle = "Key System",
+      Note = "No method of obtaining the key is provided", -- Use this to tell the user how to get a key
+      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"Hello"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+
+local Tab = Window:CreateTab("Style", 4483362458) -- Title, Image
+
+local Section = Tab:CreateSection("MUST HAVE REO! ")
+
+Rayfield:Notify({
+   Title = "Success Loading The Script",
+   Content = "By Rudbloxxx",
+   Duration = 6.5,
+   Image = 4483362458,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Isagi",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Isagi"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Chigiri",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Chigiri"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Hiori",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Hiori"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Gagamaru",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Gagamaru"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Otoya",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Otoya"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Bachira",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Bachira"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "King",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "King"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Nagi",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Nagi"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Reo",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Reo"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Karasu",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Karasu"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Shidou",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Shidou"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Yukimiya",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Yukimiya"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Kunigami",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Kunigami"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Aiku",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Aiku"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Rin",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Rin"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Sae",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Sae"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "NEL Isagi",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "NEL Isagi"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Don Lorenzo",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Don Lorenzo"
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Kurona",
+   Callback = function()
+   game.Players.LocalPlayer.PlayerStats.Style.Value = "Kurona"
+   end,
+})
+
+local Tab2 = Window:CreateTab("Player", 4483362458) -- Title, Image
+
+local Section = Tab2:CreateSection("Player")
+
+local Button = Tab2:CreateButton({
+   Name = "Auto Dribble",
+   Callback = function()
+   if not getgenv().AutoDribbleSettings then getgenv().AutoDribbleSettings={
+    Enabled = true,
+    range = 22
+}
+    end
+local S,R,P,U=getgenv().AutoDribbleSettings,game:GetService"ReplicatedStorage",game:GetService"Players",game:GetService"RunService"
+local L=P.LocalPlayer or P.PlayerAdded:Wait() 
+local function initCharacter()
+    local C=L.Character or L.CharacterAdded:Wait()
+    local H=C:WaitForChild"HumanoidRootPart"
+    local M=C:WaitForChild"Humanoid"
+    return C,H,M
+end
+local C,H,M=initCharacter()
+L.CharacterAdded:Connect(function(newChar)
+    C,H,M=initCharacter() 
+end)
+local B=R.Packages.Knit.Services.BallService.RE.Dribble
+local A=require(R.Assets.Animations)
+local G=function(s)if not A.Dribbles[s]then return nil end local I=Instance.new"Animation";I.AnimationId=A.Dribbles[s];return M and M:LoadAnimation(I)end
+local T=function(p)if p==L then return false end local c=p.Character;if not c then return false end local V=c.Values and c.Values.Sliding;if V and V.Value==true then return true end local h=c:FindFirstChildOfClass"Humanoid";if h and h.MoveDirection.Magnitude>0 and h.WalkSpeed==0 then return true end return false end
+local O=function(p)if not L.Team or not p.Team then return false end return L.Team~=p.Team end
+local D=function(d)if not S.Enabled or not C.Values.HasBall.Value then return end B:FireServer()local s=L.PlayerStats.Style.Value;local t=G(s);if t then t:Play();t:AdjustSpeed(math.clamp(1+(10-d)/10,1,2))end local F=workspace:FindFirstChild"Football";if F then F.AssemblyLinearVelocity=Vector3.new();F.CFrame=C.HumanoidRootPart.CFrame*CFrame.new(0,-2.5,0)end end
+U.Heartbeat:Connect(function()if not S.Enabled or not C or not H then return end for _,p in pairs(P:GetPlayers())do if O(p)and T(p)then local r=p.Character and p.Character:FindFirstChild"HumanoidRootPart";if r then local d=(r.Position-H.Position).Magnitude;if d<S.range then D(d);break end end end end end)
+   end,
+})
